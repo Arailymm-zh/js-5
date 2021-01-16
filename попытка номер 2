@@ -1,0 +1,2 @@
+let mult = (x,y) => x * y;
+      alert (mult(13,22));
